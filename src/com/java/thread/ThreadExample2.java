@@ -8,8 +8,7 @@ public class ThreadExample2 {
 		t.start();
 
 		// Java 8 Way ==> Correct Way
-		// Runnable r = () -> System.out.println("\nImportant job running in a
-		// Runnable");//also correct
+		// Runnable r = () -> System.out.println("\nImportant job running in a Runnable");//also correct
 		Runnable r = () -> {
 			for (int x = 1; x < 6; x++) {
 				System.out.println("Runnable running " + x);
