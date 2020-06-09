@@ -1,12 +1,10 @@
 package com.java.collection.lamdas;
 
 import com.java.collection.helper.Country;
-import com.java.collection.helper.Employee;
 
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
-import java.util.Set;
 import java.util.function.IntPredicate;
 import java.util.function.Predicate;
 import java.util.stream.Collectors;
