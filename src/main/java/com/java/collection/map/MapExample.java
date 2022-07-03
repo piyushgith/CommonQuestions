@@ -6,5 +6,7 @@ public class MapExample {
 
 
 	}
-
+	public static void firstMethod() {}
+	
+	public static void Method() {}
 }

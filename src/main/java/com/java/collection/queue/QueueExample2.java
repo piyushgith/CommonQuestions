@@ -6,5 +6,7 @@ public class QueueExample2 {
 		
 
 	}
-
+	public static void firstMethod() {}
+	
+	public static void Method() {}
 }
